@@ -1,0 +1,43 @@
+.calc{
+    width: 400px;
+    height: 550px;
+    background: black;
+    margin-left: 400px;
+    border-radius: 10%;
+}
+.screen1{
+    width: 80%;
+    height: 48px;
+    margin-top: 36px;
+    margin-left: 36px;
+    pointer-events: none;
+ }
+ /* #top{ */
+    /* background-color: re; */
+ /* } */
+ #nu{
+    
+        width: 60px;
+        height: 40px;
+        margin-left: 30px;
+        margin-top: 38px;
+        border: #fff;
+        background: gray;
+        color:#fff;
+     
+    
+ }
+ #clear{
+    width: 60px;
+    height: 40px;
+    margin-left: 38px;
+    margin-top: 38px;
+    border: gray;
+    background: red;
+    
+ }
+
+ .row{
+    padding-left: 19px;
+
+ }
